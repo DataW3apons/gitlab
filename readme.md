@@ -1,8 +1,11 @@
  [![img](https://github.com/dataweapons/winthirtytwo/raw/master/images/gmclogo2.png)]()
- 
-## Patterns and Practices - [![Website](https://img.shields.io/website-patterns%20and%20practices-docs-blue-red/http/shields.io.svg?style=plastic)](http://winthirtytwo.gitlab.dataweapons.org)
-#### `"Windows Enterprise Practices"`              
+
 ----
+
+## Patterns and Practices - [![Website](https://img.shields.io/website-patterns%20and%20practices-docs-blue-red/http/shields.io.svg?style=plastic)](http://winthirtytwo.gitlab.dataweapons.org)
+#### ```"Windows Enterprise Practices"```
+----
+
 ### Abstract
 Core protocols and systems deployed throughout an Enterprise environment implement encryption and other capabilities using [x509] public-key [certificates], [RADIUS], IEEE [8021x], [WPA2-EAP] / [EAP-TLS]
 
