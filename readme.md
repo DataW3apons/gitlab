@@ -1,60 +1,27 @@
-# Enterprise Platforms 
-#### `Windows Network Environments`  [![GitHub release](https://img.shields.io/github/release/qubyte/rubidium.svg?style=plastic)](https://github.com/dataweapons/winthirtytwo/tree/v1.1)  [![Website](https://img.shields.io/website-up-down-blue-red/http/shields.io.svg?style=plastic)](http://winthirtytwo.gitlab.dataweapons.org)     [![GitHub license](https://img.shields.io/badge/license-AGPL-blue.svg?style=plastic)](https://raw.githubusercontent.com/dataweapons/winthirtytwo/master/LICENSE) 
+ [![img](https://github.com/dataweapons/winthirtytwo/raw/master/images/gmclogo2.png)]()
  
+ ----
+ ## Patterns and Practices - [![Website](https://img.shields.io/website-patterns%20and%20practices-docs-blue-red/http/shields.io.svg?style=plastic)](http://winthirtytwo.gitlab.dataweapons.org)
+#### `"Windows Enterprise Practices"`              
+----
 ### Abstract
 Core protocols and systems deployed throughout an Enterprise environment implement encryption and other capabilities using [x509] public-key [certificates], [RADIUS], IEEE [8021x], [WPA2-EAP] / [EAP-TLS]
 
+
+##### Legacy Enterprise Network Security (NETSEC) Practices:
 ```bash
-$ cd dillinger
-$ npm install -d
-$ node app
+1) Default-deny filtering on all ingress traffic to the enterprise (untrusted).
+2) Default-allow filtering on all egress traffic from the enterprise (trusted).
+3) Devices, trusted or not, can establish connectivity to the enterprise (hosts).
 ```
 
-For production environments...
-
-```bash
-$ npm install --production
-$ npm run predeploy
-$ NODE_ENV=production node app
-```
-
-### Plugins
-
-Dillinger is currently extended with the following plugins. Instructions on how to use them in your own application are linked below.
-
+#### Plugins:
 | Component | Repository |
 | ------ | ------ |
 | PKI | [README.md] [git-pki-repo] |
 | PowerShell | [README.md] [git-psh3ll-repo] |
 | WIN32 | [README.md] [git-win32-repo] |
 | ADCS | [README.md] [git-adcs-repo] |
-
-
-### Development
-
-First Tab:
-```sh
-$ node app
-```
-
-Second Tab:
-```sh
-$ gulp watch
-```
-
-(optional) Third:
-```sh
-$ karma test
-```
-#### Building for source
-For production release:
-```sh
-$ gulp build --prod
-```
-Generating pre-built zip archives for distribution:
-```sh
-$ gulp build dist --prod
-```
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
@@ -95,4 +62,3 @@ $ gulp build dist --prod
    [AngularJS]: <http://angularjs.org>
    [Gulp]: <http://gulpjs.com>
    
-
