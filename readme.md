@@ -1,6 +1,5 @@
  [![img](https://github.com/dataweapons/winthirtytwo/raw/master/images/gmclogo2.png)]()
  
- ----
 ## Patterns and Practices - [![Website](https://img.shields.io/website-patterns%20and%20practices-docs-blue-red/http/shields.io.svg?style=plastic)](http://winthirtytwo.gitlab.dataweapons.org)
 #### `"Windows Enterprise Practices"`              
 ----
