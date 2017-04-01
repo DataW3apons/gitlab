@@ -1,8 +1,9 @@
- [![img](https://github.com/DataW3apons/gitlab/blob/master/img/theguild.png)]()
-
-## Patterns and Practices
 [![Website](https://img.shields.io/badge/Patterns%20and%20Practices%20-%20ENTERPRISE%20NETWORK%20MANAGEMENT-blue.svg?style=flat-squared)](http://winthirtytwo.gitlab.dataweapons.org)
-----
+
+## ![img](http://gitlab.dataweapons.org/img/theguild.png) **`` Patterns and Practices ``**
+
+----------
+
 
 ### Abstract
 Core protocols and systems deployed throughout an Enterprise environment implement encryption and other capabilities using [x509] public-key [certificates], [RADIUS], IEEE [8021x], [WPA2-EAP] / [EAP-TLS]
