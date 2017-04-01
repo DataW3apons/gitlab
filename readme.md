@@ -1,4 +1,4 @@
- [![img](https://github.com/dataweapons/winthirtytwo/raw/master/images/gmclogo2.png)]()
+ [![img](gitlab/img/80x80.png)]()
 
 ----
 
