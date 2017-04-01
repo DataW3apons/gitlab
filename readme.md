@@ -2,8 +2,8 @@
 
 ----
 
-## Patterns and Practices - [![Website](https://img.shields.io/website-patterns%20and%20practices-docs-blue-red/http/shields.io.svg?style=plastic)](http://winthirtytwo.gitlab.dataweapons.org)
-#### ```"Windows Enterprise Practices"```
+## Patterns and Practices
+[![Website](https://img.shields.io/badge/Patterns%20and%20Practices%20-%20ENTERPRISE%20NETWORK%20MANAGEMENT-blue.svg?style=flat-squared)](http://winthirtytwo.gitlab.dataweapons.org)
 ----
 
 ### Abstract
