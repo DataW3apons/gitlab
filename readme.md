@@ -1,5 +1,4 @@
 [![Website](https://img.shields.io/badge/Patterns%20and%20Practices%20-%20ENTERPRISE%20NETWORK%20MANAGEMENT-blue.svg?style=flat-squared)](http://winthirtytwo.gitlab.dataweapons.org)
-Copyright &copy; 2016 dataWeapons &lt;<https://pnp.dataweapons.org/>&gt;
 ----
 # ![img](https://github.com/DataW3apons/gitlab/blob/master/img/theguild.png) **`` HTS Patterns and Practices ``**
 
